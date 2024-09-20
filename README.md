@@ -16,10 +16,10 @@
 <div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 20px; background-color: #f9f9f9; transition: transform 0.2s; /* Scale Effect */">
   <h3>🌱 I’m currently learning:</h3>
   <ul>
-    <li>**Artificial Intelligence**</li>
-    <li>**Data Science**</li>
-    <li>**Machine Learning**</li>
-    <li>**Data Structures and Algorithms**</li>
+    <li>Artificial Intelligence</li>
+    <li>Data Science</li>
+    <li>Machine Learning</li>
+    <li>Data Structures and Algorithms</li>
   </ul>
 </div>
 
@@ -67,9 +67,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudr19&theme=dark" alt="GitHub Streak" />
 </p>
 
-<style>
-/* Scale Effect on hover */
-a:hover {
-  transform: scale(1.1);
-}
-</style>
+
