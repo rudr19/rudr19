@@ -28,7 +28,8 @@
 ### 🌐 Connect with me:
 <p align="center">
   <a href="https://linkedin.com/in/r06" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
-  <a href="https://kaggle.com/rudrakumarpandey" target="_blank"><img src="https://img.icons8.com/ios-filled/50/000000/kaggle.png" alt="Kaggle" /></a>
+  <strong>500+ connections</strong>
+  <a href="https://kaggle.com/rudrakumarpandey" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" width="48" alt="Kaggle" /></a>
   <a href="https://instagram.com/rudr1_20" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" /></a>
   <a href="https://www.youtube.com/c/@redbloodtales" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" /></a>
   <a href="https://www.leetcode.com/r06" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" /></a>
@@ -46,9 +47,9 @@
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/pytorch.png" alt="PyTorch"/>
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/>
-  <img src="https://img.icons8.com/color/48/000000/selenium.png" alt="Selenium"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="48" alt="Selenium"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" alt="TensorFlow"/>
 </p>
 
 ---
