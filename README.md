@@ -38,7 +38,7 @@
 
 ### 🛠️ Languages and Tools:
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" alt="AWS"/>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
@@ -57,3 +57,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rudr19&show_icons=true&locale=en&layout=compact" alt="rudr19" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudr19&theme=dark" alt="GitHub Streak" />
+</p>
