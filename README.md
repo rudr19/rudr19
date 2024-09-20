@@ -28,7 +28,6 @@
 ### 🌐 Connect with me:
 <p align="center">
   <a href="https://linkedin.com/in/r06" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
-  <strong>500+ connections</strong>
   <a href="https://kaggle.com/rudrakumarpandey" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" width="48" alt="Kaggle" /></a>
   <a href="https://instagram.com/rudr1_20" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" /></a>
   <a href="https://www.youtube.com/c/@redbloodtales" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" /></a>
@@ -39,7 +38,7 @@
 
 ### 🛠️ Languages and Tools:
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/aws.png" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" alt="AWS"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
