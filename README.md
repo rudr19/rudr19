@@ -13,7 +13,7 @@
 
 ---
 
-<div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
+<div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 20px; background-color: #f9f9f9; transition: transform 0.2s; /* Scale Effect */">
   <h3>🌱 I’m currently learning:</h3>
   <ul>
     <li>**Artificial Intelligence**</li>
@@ -31,29 +31,29 @@
 
 ### 🌐 Connect with me:
 <p align="center">
-  <a href="https://linkedin.com/in/r06" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
-  <a href="https://kaggle.com/rudrakumarpandey" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" width="48" alt="Kaggle" /></a>
-  <a href="https://instagram.com/rudr1_20" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" /></a>
-  <a href="https://www.youtube.com/c/@redbloodtales" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" /></a>
-  <a href="https://www.leetcode.com/r06" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" /></a>
+  <a href="https://linkedin.com/in/r06" target="_blank" style="margin: 0 10px; transition: transform 0.2s; transform: scale(1);"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" /></a>
+  <a href="https://kaggle.com/rudrakumarpandey" target="_blank" style="margin: 0 10px; transition: transform 0.2s; transform: scale(1);"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" width="48" alt="Kaggle" /></a>
+  <a href="https://instagram.com/rudr1_20" target="_blank" style="margin: 0 10px; transition: transform 0.2s; transform: scale(1);"> <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/c/@redbloodtales" target="_blank" style="margin: 0 10px; transition: transform 0.2s; transform: scale(1);"> <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" /></a>
+  <a href="https://www.leetcode.com/r06" target="_blank" style="margin: 0 10px; transition: transform 0.2s; transform: scale(1);"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" /></a>
 </p>
 
 ---
 
-<div style="border: 2px solid #2196F3; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
+<div style="border: 2px solid #2196F3; border-radius: 10px; padding: 20px; background-color: #f9f9f9; transition: transform 0.2s; /* Scale Effect */">
   <h3>🛠️ Languages and Tools:</h3>
   <p align="center">
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" alt="PyTorch"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="48" alt="Selenium"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" alt="TensorFlow"/>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" style="margin: 0 10px; transition: transform 0.2s; transform: scale(1);"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+    <a href="https://www.cprogramming.com/" target="_blank" style="margin: 0 10px; transition: transform 0.2s; transform: scale(1);"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/></a>
+    <a href="https://isocpp.org/" target="_blank" style="margin: 0 10px; transition: transform 0.2s; transform: scale(1);"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/></a>
+    <a href="https://www.w3.org/TR/CSS/" target="_blank" style="margin: 0 10px; transition: transform 0.2s; transform: scale(1);"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/></a>
+    <a href="https://git-scm.com/" target="_blank" style="margin: 0 10px; transition: transform 0.2s; transform: scale(1);"><img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="margin: 0 10px; transition: transform 0.2s; transform: scale(1);"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/></a>
+    <a href="https://www.mongodb.com/" target="_blank" style="margin: 0 10px; transition: transform 0.2s; transform: scale(1);"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/></a>
+    <a href="https://www.python.org/" target="_blank" style="margin: 0 10px; transition: transform 0.2s; transform: scale(1);"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/></a>
+    <a href="https://pytorch.org/" target="_blank" style="margin: 0 10px; transition: transform 0.2s; transform: scale(1);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" alt="PyTorch"/></a>
+    <a href="https://www.selenium.dev/" target="_blank" style="margin: 0 10px; transition: transform 0.2s; transform: scale(1);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="48" alt="Selenium"/></a>
+    <a href="https://www.tensorflow.org/" target="_blank" style="margin: 0 10px; transition: transform 0.2s; transform: scale(1);"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" alt="TensorFlow"/></a>
   </p>
 </div>
 
@@ -66,3 +66,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudr19&theme=dark" alt="GitHub Streak" />
 </p>
+
+<style>
+/* Scale Effect on hover */
+a: hover {
+  transform: scale(1.1);
+}
+</style>
