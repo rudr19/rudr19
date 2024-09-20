@@ -13,11 +13,15 @@
 
 ---
 
-### 🌱 I’m currently learning:
-- **Artificial Intelligence**
-- **Data Science**
-- **Machine Learning**
-- **Data Structures and Algorithms**
+<div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
+  <h3>🌱 I’m currently learning:</h3>
+  <ul>
+    <li>**Artificial Intelligence**</li>
+    <li>**Data Science**</li>
+    <li>**Machine Learning**</li>
+    <li>**Data Structures and Algorithms**</li>
+  </ul>
+</div>
 
 ### 📫 How to reach me:
 - **Email**: [rudrakumarpandey47@gmail.com](mailto:rudrakumarpandey47@gmail.com)
@@ -36,20 +40,22 @@
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="center">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" alt="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="48" alt="Selenium"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" alt="TensorFlow"/>
-</p>
+<div style="border: 2px solid #2196F3; border-radius: 10px; padding: 20px; background-color: #f9f9f9;">
+  <h3>🛠️ Languages and Tools:</h3>
+  <p align="center">
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/>
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" alt="PyTorch"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="48" alt="Selenium"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" alt="TensorFlow"/>
+  </p>
+</div>
 
 ---
 
