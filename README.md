@@ -69,7 +69,7 @@
 
 <style>
 /* Scale Effect on hover */
-a: hover {
+a:hover {
   transform: scale(1.1);
 }
 </style>
