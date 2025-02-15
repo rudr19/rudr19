@@ -26,7 +26,7 @@
 
 ### 📫 How to reach me:
 - **Email**: [rudrakumarpandey47@gmail.com](mailto:rudrakumarpandey47@gmail.com)
-- **Resume**: [View my Resume](https://drive.google.com/file/d/1qMvwt9KR29wmChqk5b9RatGIr-ZvUH9_/view?usp=sharing)
+- **Resume**: [View my Resume](https://drive.google.com/file/d/1ph4eZqXuMs74wQ_i6UCeYbR9XFHuDLxq/view)
 
 ---
 
