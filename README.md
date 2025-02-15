@@ -14,12 +14,13 @@
 ---
 
 <div style="border: 2px solid #4CAF50; border-radius: 10px; padding: 20px; background-color: #f9f9f9; transition: transform 0.2s; /* Scale Effect */">
-  <h3>🌱 I’m currently learning:</h3>
+  <h3>🌱 I’m currently working on:</h3>
   <ul>
     <li>Artificial Intelligence</li>
     <li>Data Science</li>
     <li>Machine Learning</li>
     <li>Data Structures and Algorithms</li>
+    <li>Web Development</li>
   </ul>
 </div>
 
