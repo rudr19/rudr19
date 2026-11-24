@@ -1,21 +1,17 @@
-<table>
-  <tr>
-    <td width="34%" align="center" valign="middle">
-      <a href="https://imrudra.vercel.app"><img src="./rudra.png" width="200" alt="Rudra Kumar Pandey" /></a>
-    </td>
-    <td width="66%" valign="middle">
-      <h1>Rudra Kumar Pandey</h1>
-      <p><b>SDET</b> — I test software end to end: test design, automation, and the CI that runs it.</p>
-      <p>I came to testing from full-stack work, which is why I tend to find the failures that only show up <b>between</b> systems rather than inside one.</p>
-      <p>
-        <a href="https://imrudra.vercel.app"><img src="https://img.shields.io/badge/imrudra.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
-        <a href="https://www.linkedin.com/in/r06/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-        <a href="https://leetcode.com/u/R06/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-        <a href="mailto:rudrakumarpandey47@gmail.com"><img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+# Rudra Kumar Pandey
+
+**SDET** — I test software end to end: test design, automation, and the CI that runs it.
+
+<a href="https://imrudra.vercel.app"><img src="https://img.shields.io/badge/imrudra.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/r06/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/R06/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:rudrakumarpandey47@gmail.com"><img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+I came to testing from full-stack work, which is why I tend to find the failures<br/>that only show up <b>between</b> systems rather than inside one.
+
+</div>
 
 <br/>
 
@@ -100,12 +96,11 @@
 ## &nbsp;On GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rudr19&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=16a34a&icon_color=16a34a&text_color=6b7280&bg_color=00000000" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudr19&layout=compact&langs_count=8&hide_border=true&title_color=16a34a&text_color=6b7280&bg_color=00000000" alt="Top languages" />
+  <img width="100%" src="https://ghchart.rshah.org/16a34a/rudr19" alt="Rudra's GitHub contribution calendar" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rudr19&bg_color=00000000&color=6b7280&line=16a34a&point=16a34a&area=true&area_color=16a34a&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudr19&layout=compact&langs_count=8&hide_border=true&title_color=16a34a&text_color=6b7280&bg_color=00000000&custom_title=Most%20used%20languages" alt="Most used languages" />
 </p>
 
 ## &nbsp;Recent writing
