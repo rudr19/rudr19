@@ -1,18 +1,21 @@
-<a href="https://imrudra.vercel.app">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:2e2e33&height=180&section=header&text=Rudra%20Kumar%20Pandey&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=42&desc=SDET%20%C2%B7%20test%20design%2C%20automation%20and%20the%20CI%20that%20runs%20it&descSize=16&descAlign=50&descAlignY=70" width="100%" alt="Rudra Kumar Pandey — SDET" />
-</a>
-
-<p align="center">
-  <a href="https://imrudra.vercel.app"><img src="https://img.shields.io/badge/imrudra.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
-  <a href="https://www.linkedin.com/in/r06/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/R06/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:rudrakumarpandey47@gmail.com"><img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  I came to testing from full-stack work, which is why I tend to find the failures<br/>
-  that only show up <b>between</b> systems rather than inside one.
-</p>
+<table>
+  <tr>
+    <td width="34%" align="center" valign="middle">
+      <a href="https://imrudra.vercel.app"><img src="./rudra.png" width="200" alt="Rudra Kumar Pandey" /></a>
+    </td>
+    <td width="66%" valign="middle">
+      <h1>Rudra Kumar Pandey</h1>
+      <p><b>SDET</b> — I test software end to end: test design, automation, and the CI that runs it.</p>
+      <p>I came to testing from full-stack work, which is why I tend to find the failures that only show up <b>between</b> systems rather than inside one.</p>
+      <p>
+        <a href="https://imrudra.vercel.app"><img src="https://img.shields.io/badge/imrudra.vercel.app-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" /></a>
+        <a href="https://www.linkedin.com/in/r06/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+        <a href="https://leetcode.com/u/R06/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+        <a href="mailto:rudrakumarpandey47@gmail.com"><img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -92,6 +95,17 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+## &nbsp;On GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rudr19&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=16a34a&icon_color=16a34a&text_color=6b7280&bg_color=00000000" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudr19&layout=compact&langs_count=8&hide_border=true&title_color=16a34a&text_color=6b7280&bg_color=00000000" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rudr19&bg_color=00000000&color=6b7280&line=16a34a&point=16a34a&area=true&area_color=16a34a&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity" />
 </p>
 
 ## &nbsp;Recent writing
